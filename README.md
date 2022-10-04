@@ -1,1 +1,1 @@
-My first readme
+My First Software School
